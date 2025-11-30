@@ -17,8 +17,7 @@ python -m venv .venv
 
 2️⃣ Instalar dependencias
 ```
-pip install pytest
-pip freeze > requirements.txt
+pip install
 ```
 
 ## Ejecutar
