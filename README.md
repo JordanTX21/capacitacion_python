@@ -1,6 +1,6 @@
-# Proyecto Base en Python
+# Capacitacion Base en Python
 
-Proyecto base listo para subir a GitHub.
+Proyecto capacitacion listo para subir a GitHub.
 
 ## Requisitos
 
