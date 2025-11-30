@@ -17,7 +17,7 @@ python -m venv .venv
 
 2️⃣ Instalar dependencias
 ```
-pip install
+pip install -r requirements.txt
 ```
 
 ## Ejecutar
